@@ -4,7 +4,7 @@
 
 Welcome to the GitHub Copilot coding agent feedback hub. This public repository is designed to facilitate feedback exchanges between users and GitHub. It serves as the primary channel for direct feedback. 
 
-If you’re looking for GitHub product updates and discussions, visit our [Community Discussions forum](https://github.com/orgs/community/discussions/categories/copilot). 
+If you’re looking for GitHub product updates and discussions, visit our [Community Discussions forum](https://github.com/orgs/community/discussions). 
 
 ---
 
