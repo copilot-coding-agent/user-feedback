@@ -17,5 +17,9 @@ If your feedback pertains to GitHub Copilot coding agent in general (e.g. bugs, 
 
 Your feedback is essential in helping us improve the coding agent during this public preview phase.
 
+### Support
+
+For most questions, a member of the team will respond within 10 business days.  
+
 ---
 _Disclaimer: GitHub Copilot coding agent is in public preview and is subject to change. See [pre-release terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms) for more information._ 
