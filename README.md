@@ -21,5 +21,7 @@ Your feedback is essential in helping us improve the coding agent during this pu
 
 For most questions, a member of the team will respond within 10 business days.  
 
+_Looking to submit feedback for Visual Studio Code's agent mode? File your issues here: https://github.com/microsoft/vscode-copilot_
+
 ---
 _Disclaimer: GitHub Copilot coding agent is in public preview and is subject to change. See [pre-release terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms) for more information._ 
