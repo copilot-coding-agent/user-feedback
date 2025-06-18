@@ -19,7 +19,7 @@ Your feedback is essential in helping us improve the coding agent during this pu
 
 ### Support
 
-For most questions, a member of the team will respond within 10 business days.  
+A member of the team will do their best to respond to your issue. If you do not recieve a response within the timeframe expected, please close your issue and open a support ticket at https://support.github.com/.
 
 _Looking to submit feedback for Visual Studio Code's agent mode? File your issues here: https://github.com/microsoft/vscode-copilot_
 
