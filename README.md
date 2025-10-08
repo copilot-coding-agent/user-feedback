@@ -1,3 +1,5 @@
+### This repo will be deprecated on 10/17 as the agent is now in General Availability. For issues/questions/feedback, please visit our [Community Discussions forum](https://github.com/orgs/community/discussions).
+---
 ![CodingAgent_ChangelogUnfurl](https://github.com/user-attachments/assets/534ebb38-2d0d-4b3d-b02a-6d912acd6088)
 
 # Feedback Hub for [GitHub Copilot coding agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/)
